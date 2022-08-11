@@ -9,7 +9,6 @@
 3. Cloud SDK
 4. Cloud Console 모바일 앱
 5. REST 기반 API
-6.
 
 Google Cloud SDK
 
