@@ -5,4 +5,4 @@
 
 ### -google cloud study jam-
 
-## What did you learn? 🤩
+<img width="678" alt="Screen Shot 2022-09-05 at 4 52 20 AM" src="https://user-images.githubusercontent.com/52617204/188331128-a914f959-bf54-4c0e-8522-909513eb425b.png">
